@@ -43,4 +43,4 @@ End-to-end People Analytics project using **Python + XGBoost + Power BI** to pre
 [IBM HR Analytics Attrition Dataset — Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## 👤 Author
-Connect with me on [LinkedIn](#(https://www.linkedin.com/in/harindu-hirantha-de-silva/))
+Connect with me on [LinkedIn](https://www.linkedin.com/in/harindu-hirantha-de-silva/)
