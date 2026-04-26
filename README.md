@@ -1,7 +1,7 @@
 # ibm-hr-attrition-analytics
 IBM HR Attrition Predictive &amp; Prescriptive Analytics using Python + XGBoost + Power BI
 
-# 🧠 IBM HR Attrition — Predictive & Prescriptive Analytics
+# 🧠 IBM HR Attrition Predictive & Prescriptive Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
