@@ -1,0 +1,14 @@
+{
+  "name": "HR Analytics Dark",
+  "dataColors": [
+    "#378ADD",
+    "#E24B4A",
+    "#1D9E75",
+    "#EF9F27",
+    "#7F77DD",
+    "#E1F5EE"
+  ],
+  "background": "#0E1117",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#378ADD"
+}
